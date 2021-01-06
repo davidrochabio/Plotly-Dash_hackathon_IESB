@@ -8,7 +8,7 @@ This repository consists of the python script that creates a  Plotly/Dash dashbo
 
 Just put the script and all of the json files in the same folder and run it in your terminal. It should generate the dashboard running in your local sever and a link access it through your web browser.
 
-1 - Original version developed for the hackathon: File ->
+1 - Original version developed for the hackathon: File -> polar_data_DavidRocha.py
 
 2 - Improved version developed after the hackathon: Files -> 
 
