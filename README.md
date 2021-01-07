@@ -10,6 +10,6 @@ Just put the script and all of the json files in the same folder and run it in y
 
 1 - Original version developed for the hackathon: File -> polar_data_DavidRocha.py
 
-2 - Improved version developed after the hackathon: Files -> Dash_polar_tab.py
+2 - Improved version developed after the hackathon: File -> Dash_polar_tab.py
 
 
