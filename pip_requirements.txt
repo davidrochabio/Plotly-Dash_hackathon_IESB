@@ -4,17 +4,12 @@ dash-html-components==1.1.1
 dash-renderer==1.8.3
 dash-table==4.11.0
 decorator==4.4.2
-defusedxml==0.6.0
-entrypoints==0.3
-filelock==3.0.12
 Flask==1.1.2
-Flask-Compress==1.5.0
-future==0.18.2
 glob2==0.7
 json5==0.9.5
 jsonschema==3.2.0
 pandas==1.1.2
-plotly @ file:///tmp/build/80754af9/plotly_1597716491413/work
-requests @ file:///tmp/build/80754af9/requests_1592841827918/work
-scipy @ file:///C:/ci/scipy_1592916963468/work
-seaborn @ file:///tmp/build/80754af9/seaborn_1600553570093/work
+plotly==4.9.0
+requests==2.24.0
+scipy==1.5.0
+seaborn==0.11.0
