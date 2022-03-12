@@ -1,5 +1,7 @@
 # hackathonIESB
 
+![plot](screenshots/Polar_Dash_1.png)
+
 Project developted for the 2020 IESB Hackathon - Specialization Course in AI 
 
 YouTube link to the hackathon's presentations: https://www.youtube.com/watch?v=kCfS11cdaj0 / IESB Specialization course in AI - https://www.iesb.br/pos/curso/inteligencia-artificial-remoto-
