@@ -1,6 +1,10 @@
 # hackathonIESB
 
 ![plot](screenshots/Polar_Dash_1.png)
+TAB-1
+
+![plot](screenshots/Polar_Dash_3.png)
+TAB-2
 
 Project developted for the 2020 IESB Hackathon - Specialization Course in AI 
 
