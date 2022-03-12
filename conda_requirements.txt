@@ -8,11 +8,9 @@ dash-renderer=1.8.3=pypi_0
 dash-table=4.11.0=pypi_0
 decorator=4.4.2=py_0
 flask=1.1.2=py_0
-flask-compress=1.5.0=py_0
 glob2=0.7=py_0
 json5=0.9.5=py_0
 jsonschema=3.2.0=py38_0
-matplotlib=3.3.1=0
 numpy=1.19.1=py38h5510c5b_0
 pandas=1.1.2=pypi_0
 plotly=4.9.0=py_0
