@@ -12,7 +12,7 @@ YouTube link to the hackathon's presentations: https://www.youtube.com/watch?v=k
 
 This repository consists of the python script that creates a  Plotly/Dash dashboard of a Polar smartwatch Dataset, provided by Mateus Mendelson (https://github.com/mendelson, https://github.com/mendelson/polar-sample-database).
 
-Just put the script and all of the json files in the same folder and run it in your terminal. It should generate the dashboard running in your local sever and a link access it through your web browser.
+Just put the script and all of the json files in the same folder and run it in your terminal. It should generate the dashboard running in your local server (localhost:8050) and a link to access it through your web browser.
 
 1 - Original version developed for the hackathon: File -> polar_data_DavidRocha.py
 
